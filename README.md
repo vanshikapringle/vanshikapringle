@@ -9,15 +9,21 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pringle-vanshika&color=7D9D82&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vanshikapringle&color=7D9D82&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <a href="mailto:pringlevanshika@gmail.com">
+  <a href="https://www.linkedin.com/in/vanshikapringle/">
+    <img src="https://img.shields.io/badge/LinkedIn-4A5D4E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vanshikapringle@gmail.com">
     <img src="https://img.shields.io/badge/Email-7D9D82?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-4A5D4E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/vanshikapringle">
+    <img src="https://img.shields.io/badge/GitHub-4A5D4E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://wa.me/918091073626">
+    <img src="https://img.shields.io/badge/Phone-7D9D82?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -48,7 +54,7 @@
 ## 🛠 Tech Arsenal
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/vanshikapringle">
     <img src="https://skillicons.dev/icons?i=python,svg,postgres,mysql,fastapi,tensorflow,git,github,scikitlearn&perline=10" />
   </a>
 </p>
@@ -71,6 +77,9 @@
       <img src="https://img.shields.io/badge/Power_BI-EAF0EC?style=flat-square&logo=powerbi&logoColor=4A5D4E&labelColor=EAF0EC&color=EAF0EC" />
       <br><br>
       <p align="left">Built an automated travel mapping workflow extracting GPS and EXIF metadata from images. Includes structured pipeline for landmark recognition and integrated Power BI dashboards.</p>
+      <br>
+      <a href="https://nami-journals.vercel.app/">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+      <a href="https://github.com/vanshikapringle/NAMI">📂 Source Code</a>
     </td>
     <td align="center" width="50%">
       <h3>🧠 Sentiment Analysis of Mental Health</h3>
@@ -81,6 +90,8 @@
       <img src="https://img.shields.io/badge/NLP-EAF0EC?style=flat-square&logo=openai&logoColor=4A5D4E&labelColor=EAF0EC&color=EAF0EC" />
       <br><br>
       <p align="left">Analyzed large-scale Reddit and YouTube datasets using NLP techniques to detect behavioral trends. Preprocessed unstructured data and engineered rich visualizations to track sentiment shifts.</p>
+      <br>
+      <font color="#7D9D82"><i>Internal Repository Data</i></font>
     </td>
   </tr>
   <tr>
@@ -93,6 +104,8 @@
       <img src="https://img.shields.io/badge/Python-EAF0EC?style=flat-square&logo=python&logoColor=4A5D4E&labelColor=EAF0EC&color=EAF0EC" />
       <br><br>
       <p align="left">Developed a deep learning model utilizing Inception-V3 for medical image classification. Implemented training-validation evaluation pipelines using CNN and Random Forest models.</p>
+      <br>
+      <font color="#7D9D82"><i>Internal Repository Data</i></font>
     </td>
     <td align="center" width="50%">
       <h3>🎓 Academic Background</h3>
@@ -110,12 +123,12 @@
 ## 📈 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pringle-vanshika&background=EAF0EC&border=7D9D82&stroke=7D9D82&ring=7D9D82&fire=7D9D82&currStreakNum=4A5D4E&currStreakLabel=4A5D4E&sideNums=4A5D4E&sideLabels=4A5D4E&dates=4A5D4E&border_radius=10" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikapringle&background=EAF0EC&border=7D9D82&stroke=7D9D82&ring=7D9D82&fire=7D9D82&currStreakNum=4A5D4E&currStreakLabel=4A5D4E&sideNums=4A5D4E&sideLabels=4A5D4E&dates=4A5D4E&border_radius=10" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pringle-vanshika&show_icons=true&bg_color=EAF0EC&title_color=4A5D4E&text_color=4A5D4E&icon_color=7D9D82&border_color=7D9D82&border_radius=10&cache_seconds=3600" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pringle-vanshika&layout=compact&bg_color=EAF0EC&title_color=4A5D4E&text_color=4A5D4E&icon_color=7D9D82&border_color=7D9D82&border_radius=10&cache_seconds=3600" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshikapringle&show_icons=true&bg_color=EAF0EC&title_color=4A5D4E&text_color=4A5D4E&icon_color=7D9D82&border_color=7D9D82&border_radius=10&cache_seconds=3600" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikapringle&layout=compact&bg_color=EAF0EC&title_color=4A5D4E&text_color=4A5D4E&icon_color=7D9D82&border_color=7D9D82&border_radius=10&cache_seconds=3600" alt="Top Languages"/>
 </p>
 
 ---
